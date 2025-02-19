@@ -12,6 +12,13 @@
 - **Tools:** Linux, GitHub, VS Code, Microsoft Office, Microsoft Teams, Azure Data Studio
 - **Certificates:** AWS Cloud Practitioner, IBM Cloud Core
 
+## Projects
+### [Food Ordering Website](https://github.com/Tmangar1222/Bongiorno) | [Video Demo](https://youtu.be/m5Qd_CVyDCA)
+- Developed a PHP, HTML, CSS, and MYSQL dynamic site for restaurant order management.
+
+### [SQL Collaborative Database Solutions](https://github.com/Tmangar1222/SQL-Programming)
+- Participated in database design and implementation projects, emphasizing scalability and security.
+
 ## Technical Work Experience
 ### Webacy | Data Analyst / CyberSecurity Extern
 _March 2024 - May 2024_
@@ -27,13 +34,6 @@ _November 2021 - November 2022_
 _November 2021 - Present_
 - Achieved a 110% increase in sales revenue.
 - Contributed significantly to store performance through high-quality service and team collaboration.
-
-## Projects
-### [Food Ordering Website](https://github.com/Tmangar1222/Bongiorno) | [Video Demo](https://youtu.be/m5Qd_CVyDCA)
-- Developed a PHP, HTML, CSS, and MYSQL dynamic site for restaurant order management.
-
-### [SQL Collaborative Database Solutions](https://github.com/Tmangar1222/SQL-Programming)
-- Participated in database design and implementation projects, emphasizing scalability and security.
 
 ## Affiliations
 - AWS Community Builder
