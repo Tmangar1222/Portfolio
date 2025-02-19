@@ -1,10 +1,3 @@
-# Taruna Mangar
-
-## Contact Information
-- **Phone:** (347) 777-5662
-- **Email:** [nmangar123@gmail.com](mailto:nmangar123@gmail.com)
-- **LinkedIn:** [Taruna Mangar](https://www.linkedin.com/in/taruna-mangar/)
-- **GitHub:** [Tmangar1222](https://github.com/Tmangar1222)
 
 ## Education
 - **CUNY Queens College, Queens, NY**
@@ -47,4 +40,6 @@ _November 2021 - Present_
 - Girls Who Code Member
 - AWS All Builders Welcome Mentee
 - She Builds Mentee
+  
+
 
