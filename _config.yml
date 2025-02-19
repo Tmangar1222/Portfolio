@@ -1,4 +1,12 @@
 title: Taruna Mangar
+
+
+Descripiton: Contact Information
+- **Phone:** (347) 777-5662
+- **Email:** [nmangar123@gmail.com](mailto:nmangar123@gmail.com)
+- **LinkedIn:** [Taruna Mangar](https://www.linkedin.com/in/taruna-mangar/)
+- **GitHub:** [Tmangar1222](https://github.com/Tmangar1222)
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
